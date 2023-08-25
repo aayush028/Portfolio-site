@@ -1,0 +1,24 @@
+ .college{
+   justify-content:space-around;
+
+   display: flex;
+
+ }
+.hsc{
+  justify-content:space-around;
+
+  display: flex;
+}
+.ssc{
+  justify-content:space-around;
+
+  display: flex;
+}
+hr{
+  border: 1px solid grey;
+}
+body{
+  border:grey;
+   border-width:5px;
+    border-style: solid;
+}
